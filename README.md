@@ -7,4 +7,4 @@
 - 📫 My working email: Eakanofficial@gmail.com
 
 <h3> My current task </h3>
-[x] Do nothing.
+- [x] Do nothing.
