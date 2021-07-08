@@ -8,3 +8,6 @@
 
 <h3> My current task </h3>
 - [x] Do nothing.
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
