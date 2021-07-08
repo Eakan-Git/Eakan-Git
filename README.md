@@ -6,7 +6,7 @@
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
 - 📫 My working email: Eakanofficial@gmail.com
 
-<h3> My current task </h3>
+
 - [x] Do nothing.
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
