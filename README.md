@@ -7,7 +7,7 @@
 - 📫 My working email: eakanofficial@gmail.com
 - 🤡 My personal blog: https://hcmus-eakan.github.io/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCMUS-Eakan&show_icons=true&theme=radical)
+<h3 align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCMUS-Eakan&show_icons=true&theme=radical) </h3>
 
 I am currently:
 - [x] Do nothing.
