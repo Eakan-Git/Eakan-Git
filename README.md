@@ -6,6 +6,6 @@
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
 - 📫 My working email: Eakanofficial@gmail.com
 - 🤡 My personal blog: https://hcmus-eakan.github.io/
-- 
+
 I am currently:
 - [x] Do nothing.
