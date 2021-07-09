@@ -9,5 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCMUS-Eakan&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HCMUS-Eakan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 I am currently:
 - [x] Do nothing.
