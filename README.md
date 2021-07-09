@@ -4,7 +4,7 @@
 - 🔭 I’m currently 
 - 🌱 I’m currently learning C/C++ and Python.
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
-- 📫 My working email: Eakanofficial@gmail.com
+- 📫 My working email: eakanofficial@gmail.com
 - 🤡 My personal blog: https://hcmus-eakan.github.io/
 
 I am currently:
