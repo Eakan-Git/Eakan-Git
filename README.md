@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eakan</h1>
 <h3 align="center">A sophomore from HCMUS</h3>
 
-- 🐒 Hello, I'm Eakan 🤡 You may call me Kan, whatever 🐼
-- 🌱 I’m currently learning C/C++ and Python.
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
+- 🌱 I’m currently learning C/C++ and Python.
 - 📫 My working email: eakanofficial@gmail.com
 - 🤡 My personal blog: https://hcmus-eakan.github.io/
 
