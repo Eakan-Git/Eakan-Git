@@ -4,7 +4,7 @@
 
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
 - ⌨️ Programming language: C/C++, Python.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and C# (What a mess)
 - 📫 My working email: eakanofficial@gmail.com
 - 🤡 My personal blog: https://hcmus-eakan.github.io/
 
