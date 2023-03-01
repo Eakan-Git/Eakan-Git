@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Java and C# (What a mess)
 - 📫 My working email: eakan.forwork@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HCMUS-Eakan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eakan-Git&count_private=true&show_icons=true&theme=radical)
 
 I am:
 - [x] Doing nothing.
