@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eakan</h1>
-<h3 align="center">A senior from HCMUS</h3>
 <h3 align="center">Bachelor of Information Technology - Major in Information Systems</h3>
 
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
