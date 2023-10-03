@@ -2,8 +2,7 @@
 <h3 align="center">Bachelor of Information Technology - Major in Information Systems</h3>
 
 - 👯 You may call me Eakan, or Kan for short. (Whatever)
-- ⌨️ Programming language: C/C++, Python.
-- 🌱 I’m currently learning Java and C# (What a mess)
+- ⌨️ Programming language/framework/...(Beginner): JavaScript, React, NextJS, C/C++, Python, HTML, CSS, WinForm
 - 📫 My working email: eakan.forwork@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eakan-Git&count_private=true&show_icons=true&theme=radical)
