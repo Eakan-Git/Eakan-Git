@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eakan</h1>
 <h3 align="center">Bachelor of Information Technology - Major in Information Systems</h3>
 
-- 👯 You may call me Eakan, or Kan for short. (Whatever)
-- ⌨️ Programming language/framework/...(Beginner): JavaScript, React, NextJS, C/C++, Python, HTML, CSS, WinForm
+- ⌨️ Stupid at: Next.js, Tailwind CSS, Python, Microservices, Cloud
 - 📫 My working email (English): eakan.forwork@gmail.com
 - 📫 My working email (Vietnamese): nqtruong.forwork@gmail.com
 
