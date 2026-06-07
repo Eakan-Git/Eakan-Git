@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eakan</h1>
-<h3 align="center">Bachelor of Information Technology - Major in Information Systems</h3>
 
-- ⌨️ Stupid at: Next.js, Tailwind CSS, Python, Microservices, Cloud
+- ⌨️ Stupid at: Next.js, Tailwind CSS, Python, FastAPI, Microservices, Cloud
 - 📫 My working email (English): eakan.forwork@gmail.com
 - 📫 My working email (Vietnamese): nqtruong.forwork@gmail.com
 
